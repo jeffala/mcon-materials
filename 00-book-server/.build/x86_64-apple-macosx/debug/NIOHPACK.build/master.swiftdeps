@@ -1,0 +1,19 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "95ffa216631719da786f95ed79d4e3e3c16ee36f3522ccd959d6e26549147631"
+build_start_time: [1680033500, 524528026]
+build_end_time: [1680033503, 951028823]
+inputs:
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/DynamicHeaderTable.swift"
+  : [1680033447, 968699932]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/HPACKDecoder.swift": [1680033447, 968933105]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/HPACKEncoder.swift": [1680033447, 969432830]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/HPACKErrors.swift": [1680033447, 969642400]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/HPACKHeader.swift": [1680033447, 970134973]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/HeaderTables.swift": [1680033447, 970808982]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/HuffmanCoding.swift": [1680033447, 971029996]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/HuffmanTables.swift": [1680033447, 972154140]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/IndexedHeaderTable.swift"
+  : [1680033447, 972452878]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/IntegerCoding.swift": [1680033447, 972674369]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio-http2/Sources/NIOHPACK/StaticHeaderTable.swift"
+  : [1680033447, 972834587]

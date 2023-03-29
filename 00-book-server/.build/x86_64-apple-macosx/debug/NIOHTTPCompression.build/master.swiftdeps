@@ -1,0 +1,17 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "82c9f70aaa1e8ea9763f7f903888f4350c8e2d4ab720a81435f92ddfa42fdadb"
+build_start_time: [1680033500, 524047851]
+build_end_time: [1680033503, 629521846]
+inputs:
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio-extras/Sources/NIOHTTPCompression/HTTPCompression.swift"
+  : [1680033447, 618795633]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio-extras/Sources/NIOHTTPCompression/HTTPDecompression.swift"
+  : [1680033447, 619010448]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio-extras/Sources/NIOHTTPCompression/HTTPRequestCompressor.swift"
+  : [1680033447, 619198799]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio-extras/Sources/NIOHTTPCompression/HTTPRequestDecompressor.swift"
+  : [1680033447, 619404315]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio-extras/Sources/NIOHTTPCompression/HTTPResponseCompressor.swift"
+  : [1680033447, 619614601]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio-extras/Sources/NIOHTTPCompression/HTTPResponseDecompressor.swift"
+  : [1680033447, 619800567]

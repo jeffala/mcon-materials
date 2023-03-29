@@ -1,0 +1,11 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "a4d2c22096be64a52a9bd98a300f7b849f2657a42c524a115dbee646217acc83"
+build_start_time: [1680033497, 638566017]
+build_end_time: [1680033520, 499895095]
+inputs:
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOFoundationCompat/ByteBuffer-foundation.swift"
+  : [1680033452, 384003162]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOFoundationCompat/Codable+ByteBuffer.swift"
+  : [1680033452, 384193897]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOFoundationCompat/JSONSerialization+ByteBuffer.swift"
+  : [1680033452, 384338378]

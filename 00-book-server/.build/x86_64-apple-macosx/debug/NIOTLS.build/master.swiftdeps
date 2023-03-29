@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "a3fcbd5f043a7809f60bf9e86d9ba79095cf964c5356b1c44ac1a0c084750604"
+build_start_time: [1680033497, 640405178]
+build_end_time: [1680033499, 295770168]
+inputs:
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOTLS/ApplicationProtocolNegotiationHandler.swift"
+  : [1680033452, 406066894]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOTLS/SNIHandler.swift": [1680033452, 406283140]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOTLS/TLSEvents.swift": [1680033452, 406449317]

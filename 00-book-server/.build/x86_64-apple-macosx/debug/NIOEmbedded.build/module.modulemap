@@ -1,0 +1,4 @@
+module NIOEmbedded {
+    header "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/x86_64-apple-macosx/debug/NIOEmbedded.build/NIOEmbedded-Swift.h"
+    requires objc
+}

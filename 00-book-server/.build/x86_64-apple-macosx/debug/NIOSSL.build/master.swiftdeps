@@ -1,0 +1,44 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "4c1af3a9f6d5f3a55ec0a4e5f20e7deedfc0261f435361ae3ea8ebe5ec4d734d"
+build_start_time: [1680033499, 426720142]
+build_end_time: [1680033505, 558034896]
+inputs:
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/ByteBufferBIO.swift": [1680033450, 234405994]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/CustomPrivateKey.swift": [1680033450, 234867811]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/IdentityVerification.swift"
+  : [1680033450, 235557556]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/LinuxCABundle.swift": [1680033450, 235714912]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/NIOSSLClientHandler.swift"
+  : [1680033450, 235877037]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/NIOSSLHandler.swift": [1680033450, 236418247]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/NIOSSLServerHandler.swift"
+  : [1680033450, 236575126]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/ObjectIdentifier.swift": [1680033450, 236996889]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/PosixPort.swift": [1680033450, 237160682]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/SSLCallbacks.swift": [1680033450, 237354755]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/SSLCertificate.swift": [1680033450, 237552165]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/SSLCertificateExtensions.swift"
+  : [1680033450, 237986087]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/SSLConnection.swift": [1680033450, 238647937]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/SSLContext.swift": [1680033450, 239693880]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/SSLErrors.swift": [1680033450, 240704536]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/SSLInit.swift": [1680033450, 241317510]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/SSLPKCS12Bundle.swift": [1680033450, 241626501]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/SSLPrivateKey.swift": [1680033450, 241986989]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/SSLPublicKey.swift": [1680033450, 242409944]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/SecurityFrameworkCertificateVerification.swift"
+  : [1680033450, 242669105]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/String+unsafeUninitializedCapacity.swift"
+  : [1680033450, 242943286]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/SubjectAlternativeName.swift"
+  : [1680033450, 243193149]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/SwiftCrypto/NIOSSLSecureBytes.swift"
+  : [1680033450, 243514537]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/SwiftCrypto/RNG.swift": [1680033450, 243699312]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/SwiftCrypto/SafeCompare.swift"
+  : [1680033450, 243934154]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/SwiftCrypto/Zeroization.swift"
+  : [1680033450, 244071483]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/TLSConfiguration.swift": [1680033450, 244662523]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio-ssl/Sources/NIOSSL/UniversalBootstrapSupport.swift"
+  : [1680033450, 244898319]

@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "458052bd48f4928002cc2a861bc232fa9d0ff6681b4e9de3b004b94f7c6c5fcd"
+build_start_time: [1680033494, 947438955]
+build_end_time: [1680033496, 175832986]
+inputs:
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOEmbedded/AsyncTestingChannel.swift"
+  : [1680033452, 383244037]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOEmbedded/AsyncTestingEventLoop.swift"
+  : [1680033452, 383494853]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOEmbedded/Embedded.swift": [1680033452, 383718967]

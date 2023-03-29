@@ -1,0 +1,23 @@
+{
+  "": {
+    "swift-dependencies": "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/x86_64-apple-macosx/debug/NIOEmbedded.build/master.swiftdeps"
+  },
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOEmbedded/AsyncTestingChannel.swift": {
+    "dependencies": "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/x86_64-apple-macosx/debug/NIOEmbedded.build/AsyncTestingChannel.d",
+    "object": "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/x86_64-apple-macosx/debug/NIOEmbedded.build/AsyncTestingChannel.swift.o",
+    "swiftmodule": "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/x86_64-apple-macosx/debug/NIOEmbedded.build/AsyncTestingChannel~partial.swiftmodule",
+    "swift-dependencies": "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/x86_64-apple-macosx/debug/NIOEmbedded.build/AsyncTestingChannel.swiftdeps"
+  },
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOEmbedded/AsyncTestingEventLoop.swift": {
+    "dependencies": "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/x86_64-apple-macosx/debug/NIOEmbedded.build/AsyncTestingEventLoop.d",
+    "object": "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/x86_64-apple-macosx/debug/NIOEmbedded.build/AsyncTestingEventLoop.swift.o",
+    "swiftmodule": "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/x86_64-apple-macosx/debug/NIOEmbedded.build/AsyncTestingEventLoop~partial.swiftmodule",
+    "swift-dependencies": "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/x86_64-apple-macosx/debug/NIOEmbedded.build/AsyncTestingEventLoop.swiftdeps"
+  },
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOEmbedded/Embedded.swift": {
+    "dependencies": "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/x86_64-apple-macosx/debug/NIOEmbedded.build/Embedded.d",
+    "object": "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/x86_64-apple-macosx/debug/NIOEmbedded.build/Embedded.swift.o",
+    "swiftmodule": "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/x86_64-apple-macosx/debug/NIOEmbedded.build/Embedded~partial.swiftmodule",
+    "swift-dependencies": "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/x86_64-apple-macosx/debug/NIOEmbedded.build/Embedded.swiftdeps"
+  }
+}

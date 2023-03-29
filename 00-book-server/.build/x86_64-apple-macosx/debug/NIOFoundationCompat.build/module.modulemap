@@ -1,0 +1,4 @@
+module NIOFoundationCompat {
+    header "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/x86_64-apple-macosx/debug/NIOFoundationCompat.build/NIOFoundationCompat-Swift.h"
+    requires objc
+}

@@ -1,0 +1,4 @@
+module NIOHPACK {
+    header "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/x86_64-apple-macosx/debug/NIOHPACK.build/NIOHPACK-Swift.h"
+    requires objc
+}

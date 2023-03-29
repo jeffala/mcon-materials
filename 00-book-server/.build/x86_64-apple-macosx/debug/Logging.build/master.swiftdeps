@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "bbd481891cbc17cf867d8765d41de453a1f6ea31af93da3f98c44922ce7ad30a"
+build_start_time: [1680033466, 586964130]
+build_end_time: [1680033472, 294296026]
+inputs:
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-log/Sources/Logging/Locks.swift": [1680033453, 779019594]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-log/Sources/Logging/LogHandler.swift": [1680033453, 779300212]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-log/Sources/Logging/Logging.swift": [1680033453, 779807090]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-log/Sources/Logging/MetadataProvider.swift": [1680033453, 780017852]

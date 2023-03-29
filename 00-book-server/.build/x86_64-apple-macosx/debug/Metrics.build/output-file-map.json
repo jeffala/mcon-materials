@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/x86_64-apple-macosx/debug/Metrics.build/master.swiftdeps"
+  },
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-metrics/Sources/Metrics/Metrics.swift": {
+    "dependencies": "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/x86_64-apple-macosx/debug/Metrics.build/Metrics.d",
+    "object": "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/x86_64-apple-macosx/debug/Metrics.build/Metrics.swift.o",
+    "swiftmodule": "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/x86_64-apple-macosx/debug/Metrics.build/Metrics~partial.swiftmodule",
+    "swift-dependencies": "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/x86_64-apple-macosx/debug/Metrics.build/Metrics.swiftdeps"
+  }
+}

@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "293751d2c9d384f320833f4c9aa9760f93f26efdb4e112048ead9e61de5bd543"
+build_start_time: [1680033471, 286339044]
+build_end_time: [1680033471, 435302019]
+inputs:
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/Collections/Collections.swift"
+  : [1680033449, 660518169]

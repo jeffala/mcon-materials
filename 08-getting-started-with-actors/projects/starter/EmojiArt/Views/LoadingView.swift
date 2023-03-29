@@ -69,6 +69,10 @@ struct LoadingView: View {
       Task {
         do {
           try await model.loadImages()
+          try await model.verifyImages()
+          withAnimation {
+            isVerified = true
+          }
         } catch {
           lastErrorMessage = error.localizedDescription
         }

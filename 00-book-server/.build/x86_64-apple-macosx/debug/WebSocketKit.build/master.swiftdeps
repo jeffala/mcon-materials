@@ -1,0 +1,17 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "231e015d674b47e1fd27fc9b710ead36d70ca830d19de30bdae54e7a584681d1"
+build_start_time: [1680033522, 204514026]
+build_end_time: [1680033523, 589126110]
+inputs:
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/websocket-kit/Sources/WebSocketKit/Concurrency/WebSocket+Concurrency.swift"
+  : [1680033453, 493543148]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/websocket-kit/Sources/WebSocketKit/Exports.swift": [1680033453, 493931055]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/websocket-kit/Sources/WebSocketKit/HTTPInitialRequestHandler.swift"
+  : [1680033453, 494093656]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/websocket-kit/Sources/WebSocketKit/WebSocket+Connect.swift"
+  : [1680033453, 494255304]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/websocket-kit/Sources/WebSocketKit/WebSocket.swift": [1680033453, 494558334]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/websocket-kit/Sources/WebSocketKit/WebSocketClient.swift"
+  : [1680033453, 495131492]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/websocket-kit/Sources/WebSocketKit/WebSocketHandler.swift"
+  : [1680033453, 495539426]

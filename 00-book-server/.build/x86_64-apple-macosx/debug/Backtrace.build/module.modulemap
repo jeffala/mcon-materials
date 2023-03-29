@@ -1,0 +1,4 @@
+module Backtrace {
+    header "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/x86_64-apple-macosx/debug/Backtrace.build/Backtrace-Swift.h"
+    requires objc
+}

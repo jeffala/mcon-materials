@@ -1,0 +1,12 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "8a615742367258292439bb3003a865d034cdd43acb8458911c97df8daa5ea6b2"
+build_start_time: [1680033490, 816843032]
+build_end_time: [1680033491, 422163963]
+inputs:
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOConcurrencyHelpers/NIOAtomic.swift"
+  : [1680033452, 363807916]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOConcurrencyHelpers/NIOLock.swift": [1680033452, 364403724]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOConcurrencyHelpers/NIOLockedValueBox.swift"
+  : [1680033452, 364558696]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOConcurrencyHelpers/atomics.swift": [1680033452, 364766597]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOConcurrencyHelpers/lock.swift": [1680033452, 364918470]

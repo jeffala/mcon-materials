@@ -1,0 +1,4 @@
+module OrderedCollections {
+    header "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/x86_64-apple-macosx/debug/OrderedCollections.build/OrderedCollections-Swift.h"
+    requires objc
+}

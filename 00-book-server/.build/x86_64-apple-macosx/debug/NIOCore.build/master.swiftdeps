@@ -1,0 +1,76 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "e895d987b962217c25c5caf28332a0cd8374f7f296693749583f0e11ab9a0877"
+build_start_time: [1680033491, 574346065]
+build_end_time: [1680033494, 795854091]
+inputs:
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/AddressedEnvelope.swift": [1680033452, 365160942]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/AsyncAwaitSupport.swift": [1680033452, 365341424]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/AsyncSequences/NIOAsyncSequenceProducer.swift"
+  : [1680033452, 365756988]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/AsyncSequences/NIOAsyncSequenceProducerStrategies.swift"
+  : [1680033452, 365904092]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/AsyncSequences/NIOAsyncWriter.swift"
+  : [1680033452, 366172313]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/AsyncSequences/NIOThrowingAsyncSequenceProducer.swift"
+  : [1680033452, 366344928]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/BSDSocketAPI.swift": [1680033452, 366719245]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/ByteBuffer-aux.swift": [1680033452, 367236137]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/ByteBuffer-conversions.swift"
+  : [1680033452, 367391586]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/ByteBuffer-core.swift": [1680033452, 367773056]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/ByteBuffer-int.swift": [1680033452, 367969512]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/ByteBuffer-lengthPrefix.swift"
+  : [1680033452, 368114471]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/ByteBuffer-multi-int.swift": [1680033452, 368396282]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/ByteBuffer-views.swift": [1680033452, 368595600]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/Channel.swift": [1680033452, 368801116]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/ChannelHandler.swift": [1680033452, 369041204]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/ChannelHandlers.swift": [1680033452, 369534015]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/ChannelInvoker.swift": [1680033452, 369725704]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/ChannelOption.swift": [1680033452, 369921684]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/ChannelPipeline.swift": [1680033452, 370349407]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/CircularBuffer.swift": [1680033452, 371803283]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/Codec.swift": [1680033452, 372104167]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/ConvenienceOptionSupport.swift"
+  : [1680033452, 372283458]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/DeadChannel.swift": [1680033452, 372691392]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/DispatchQueue+WithFuture.swift"
+  : [1680033452, 372848033]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/EventLoop+Deprecated.swift": [1680033452, 373040199]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/EventLoop.swift": [1680033452, 373629093]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/EventLoopFuture+Deprecated.swift"
+  : [1680033452, 374604701]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/EventLoopFuture+WithEventLoop.swift"
+  : [1680033452, 374773979]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/EventLoopFuture.swift": [1680033452, 375183820]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/FileDescriptor.swift": [1680033452, 375347137]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/FileHandle.swift": [1680033452, 375502109]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/FileRegion.swift": [1680033452, 375668048]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/IO.swift": [1680033452, 375833511]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/IOData.swift": [1680033452, 375959157]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/IPProtocol.swift": [1680033452, 376109361]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/IntegerBitPacking.swift": [1680033452, 376245021]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/IntegerTypes.swift": [1680033452, 376439332]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/Interfaces.swift": [1680033452, 376649379]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/Linux.swift": [1680033452, 376852989]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/MarkedCircularBuffer.swift": [1680033452, 377332210]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/MulticastChannel.swift": [1680033452, 377486944]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/NIOAny.swift": [1680033452, 377657175]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/NIOCloseOnErrorHandler.swift"
+  : [1680033452, 377852678]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/NIOLoopBound.swift": [1680033452, 378008604]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/NIOSendable.swift": [1680033452, 378148794]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/PointerHelpers.swift": [1680033452, 378312110]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/RecvByteBufferAllocator.swift"
+  : [1680033452, 378765583]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/SingleStepByteToMessageDecoder.swift"
+  : [1680033452, 378997087]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/SocketAddresses.swift": [1680033452, 379296302]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/SocketOptionProvider.swift": [1680033452, 379529237]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/SystemCallHelpers.swift": [1680033452, 379687786]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/TimeAmount+Duration.swift": [1680033452, 379824638]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/TypeAssistedChannelHandler.swift"
+  : [1680033452, 379963874]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/UniversalBootstrapSupport.swift"
+  : [1680033452, 380156517]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOCore/Utilities.swift": [1680033452, 380538940]

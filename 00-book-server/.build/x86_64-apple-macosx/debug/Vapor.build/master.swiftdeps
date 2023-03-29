@@ -1,0 +1,291 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "8e93c10faaa25801db3ccb12b7723cec16e463186003f265f074649637e72519"
+build_start_time: [1680033524, 935673952]
+build_end_time: [1680033529, 957912921]
+inputs:
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Application.swift": [1680033450, 998832225]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Authentication/AuthenticationCache.swift"
+  : [1680033450, 999144315]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Authentication/Authenticator.swift"
+  : [1680033450, 999365568]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Authentication/BasicAuthorization.swift"
+  : [1680033450, 999613285]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Authentication/BearerAuthorization.swift"
+  : [1680033450, 999809741]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Authentication/GuardMiddleware.swift"
+  : [1680033450, 999977588]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Authentication/RedirectMiddleware.swift"
+  : [1680033451, 135660]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Authentication/SessionAuthenticatable.swift"
+  : [1680033451, 306367]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Bcrypt/Bcrypt.swift": [1680033451, 578641]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Cache/Application+Cache.swift": [1680033451, 811576]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Cache/Cache.swift": [1680033451, 994682]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Cache/CacheExpirationTime.swift": [1680033451, 1248359]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Cache/MemoryCache.swift": [1680033451, 1483678]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Cache/Request+Cache.swift": [1680033451, 1721382]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Client/Application+Clients.swift": [1680033451, 2032279]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Client/Client.swift": [1680033451, 2207756]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Client/ClientRequest.swift": [1680033451, 2362728]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Client/ClientResponse.swift": [1680033451, 2533197]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Client/Request+Client.swift": [1680033451, 2717971]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Commands/BootCommand.swift": [1680033451, 3054618]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Commands/CommandContext+Application.swift"
+  : [1680033451, 3216266]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Commands/RoutesCommand.swift": [1680033451, 3402948]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Commands/ServeCommand.swift": [1680033451, 3561735]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Concurrency/AnyResponse+Concurrency.swift"
+  : [1680033451, 3790378]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Concurrency/AsyncBasicResponder.swift"
+  : [1680033451, 3962755]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Concurrency/AsyncMiddleware.swift": [1680033451, 4141569]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Concurrency/AsyncPasswordHasher+Concurrency.swift"
+  : [1680033451, 4303693]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Concurrency/AsyncSessionDriver.swift"
+  : [1680033451, 4449844]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Concurrency/Authentication+Concurrency.swift"
+  : [1680033451, 4610061]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Concurrency/Cache+Concurrency.swift"
+  : [1680033451, 4762649]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Concurrency/Client+Concurrency.swift"
+  : [1680033451, 4912376]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Concurrency/FileIO+Concurrency.swift"
+  : [1680033451, 5072593]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Concurrency/Responder+Concurrency.swift"
+  : [1680033451, 5236864]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Concurrency/ResponseCodable+Concurrency.swift"
+  : [1680033451, 5405426]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Concurrency/RoutesBuilder+Concurrency.swift"
+  : [1680033451, 5543708]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Concurrency/ViewRenderer+Concurrency.swift"
+  : [1680033451, 5709171]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Concurrency/WebSocket+Concurrency.swift"
+  : [1680033451, 5869388]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Content/Content.swift": [1680033451, 6125926]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Content/ContentCoders.swift": [1680033451, 6279468]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Content/ContentConfiguration.swift"
+  : [1680033451, 6435155]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Content/ContentContainer.swift": [1680033451, 6615638]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Content/JSONCoder+Custom.swift": [1680033451, 6763458]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Content/JSONCoders+Content.swift": [1680033451, 6911754]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Content/PlaintextDecoder.swift": [1680033451, 7068157]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Content/PlaintextEncoder.swift": [1680033451, 7223367]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Content/SingleValueDecoder.swift": [1680033451, 7386684]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Content/URLQueryCoders.swift": [1680033451, 7515907]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Content/URLQueryContainer.swift": [1680033451, 7702350]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Core/Core.swift": [1680033451, 7929801]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Core/Running.swift": [1680033451, 8116245]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Deprecations/CORSMiddleware+AllowOriginSetting.swift"
+  : [1680033451, 8325576]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Deprecations/CORSMiddleware+Configuration+exposedHeaders.swift"
+  : [1680033451, 8527278]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Deprecations/DotEnvFile+load.swift"
+  : [1680033451, 8741855]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Deprecations/Routes+caseInsenstive.swift"
+  : [1680033451, 8890867]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Deprecations/Validatable+validate.swift"
+  : [1680033451, 9032726]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Environment/Environment+Process.swift"
+  : [1680033451, 9298801]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Environment/Environment+Secret.swift"
+  : [1680033451, 9541988]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Environment/Environment.swift": [1680033451, 9740352]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Error/Abort.swift": [1680033451, 10015726]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Error/AbortError.swift": [1680033451, 10200977]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Error/DebuggableError.swift": [1680033451, 10483026]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Error/Demangler.swift": [1680033451, 10661125]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Error/ErrorSource.swift": [1680033451, 10807514]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Error/StackTrace.swift": [1680033451, 11012077]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Exports.swift": [1680033451, 11188983]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/HTTP/Application+HTTP.swift": [1680033451, 11408805]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/HTTP/BasicResponder.swift": [1680033451, 11575698]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/HTTP/BodyStream.swift": [1680033451, 11764526]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/HTTP/Client/Application+HTTP+Client.swift"
+  : [1680033451, 12050151]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/HTTP/Client/EventLoopHTTPClient.swift"
+  : [1680033451, 12425422]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/HTTP/EndpointCache.swift": [1680033451, 12699127]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/HTTP/HTTPMethod+String.swift": [1680033451, 12942314]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/HTTP/HTTPStatus.swift": [1680033451, 13121128]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/HTTP/Headers/HTTPCookies.swift": [1680033451, 13517856]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/HTTP/Headers/HTTPHeaderCacheControl.swift"
+  : [1680033451, 13738155]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/HTTP/Headers/HTTPHeaderExpires.swift"
+  : [1680033451, 13893604]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/HTTP/Headers/HTTPHeaderLastModified.swift"
+  : [1680033451, 14042377]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/HTTP/Headers/HTTPHeaders+Cache.swift"
+  : [1680033451, 14191627]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/HTTP/Headers/HTTPHeaders+Connection.swift"
+  : [1680033451, 14330148]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/HTTP/Headers/HTTPHeaders+ContentDisposition.swift"
+  : [1680033451, 14516353]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/HTTP/Headers/HTTPHeaders+ContentRange.swift"
+  : [1680033451, 14688253]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/HTTP/Headers/HTTPHeaders+Directive.swift"
+  : [1680033451, 14917612]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/HTTP/Headers/HTTPHeaders+Forwarded.swift"
+  : [1680033451, 15077829]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/HTTP/Headers/HTTPHeaders+Link.swift"
+  : [1680033451, 15245914]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/HTTP/Headers/HTTPHeaders+Name.swift"
+  : [1680033451, 15510797]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/HTTP/Headers/HTTPHeaders.swift": [1680033451, 15692710]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/HTTP/Headers/HTTPMediaType.swift": [1680033451, 16063928]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/HTTP/Headers/HTTPMediaTypePreference.swift"
+  : [1680033451, 16255378]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/HTTP/Responder.swift": [1680033451, 16407012]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/HTTP/Server/Application+HTTP+Server.swift"
+  : [1680033451, 16640663]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/HTTP/Server/HTTPServer.swift": [1680033451, 16941070]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/HTTP/Server/HTTPServerHandler.swift"
+  : [1680033451, 17143726]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/HTTP/Server/HTTPServerRequestDecoder.swift"
+  : [1680033451, 17346620]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/HTTP/Server/HTTPServerResponseEncoder.swift"
+  : [1680033451, 17558813]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/HTTP/Server/HTTPServerUpgradeHandler.swift"
+  : [1680033451, 17735481]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Logging/Logger+Report.swift": [1680033451, 17959356]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Logging/LoggingSystem+Environment.swift"
+  : [1680033451, 18120288]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Middleware/Application+Middleware.swift"
+  : [1680033451, 18444538]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Middleware/CORSMiddleware.swift": [1680033451, 18663167]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Middleware/ErrorMiddleware.swift": [1680033451, 18863677]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Middleware/FileMiddleware.swift": [1680033451, 19021272]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Middleware/Middleware.swift": [1680033451, 19186496]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Middleware/MiddlewareConfiguration.swift"
+  : [1680033451, 19343376]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Middleware/RouteLoggingMiddleware.swift"
+  : [1680033451, 19514560]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Multipart/File+Multipart.swift": [1680033451, 19754409]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Multipart/FormDataDecoder+Content.swift"
+  : [1680033451, 19921302]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Multipart/FormDataEncoder+Content.swift"
+  : [1680033451, 20083427]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Passwords/Application+Password.swift"
+  : [1680033451, 20332813]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Passwords/Application+Passwords.swift"
+  : [1680033451, 20497322]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Passwords/AsyncPasswordHasher.swift"
+  : [1680033451, 20655632]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Passwords/BcryptHasher.swift": [1680033451, 20803213]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Passwords/PasswordHasher.swift": [1680033451, 20950794]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Passwords/PlaintextHasher.swift": [1680033451, 21100044]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Passwords/Request+Password.swift": [1680033451, 21243095]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Request/Redirect.swift": [1680033451, 21490573]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Request/Request+Body.swift": [1680033451, 21664142]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Request/Request+BodyStream.swift": [1680033451, 21837711]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Request/Request.swift": [1680033451, 22054195]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Responder/Application+Responder.swift"
+  : [1680033451, 22304058]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Responder/DefaultResponder.swift": [1680033451, 22513389]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Response/Response+Body.swift": [1680033451, 22792816]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Response/Response.swift": [1680033451, 23017406]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Response/ResponseCodable.swift": [1680033451, 23186683]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Routing/Application+Routes.swift": [1680033451, 23418426]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Routing/Parameters+Require.swift": [1680033451, 23570537]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Routing/Request+WebSocket.swift": [1680033451, 23720741]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Routing/Route.swift": [1680033451, 23880243]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Routing/RouteCollection.swift": [1680033451, 24028062]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Routing/Routes.swift": [1680033451, 24185180]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Routing/RoutesBuilder+Group.swift": [1680033451, 24340629]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Routing/RoutesBuilder+Method.swift"
+  : [1680033451, 24499893]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Routing/RoutesBuilder+Middleware.swift"
+  : [1680033451, 24670839]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Routing/RoutesBuilder+WebSocket.swift"
+  : [1680033451, 24800777]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Routing/RoutesBuilder.swift": [1680033451, 24935245]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Security/OTP.swift": [1680033451, 25266170]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Server/Application+Servers.swift": [1680033451, 25558948]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Server/Server.swift": [1680033451, 25722742]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Sessions/Application+Sessions.swift"
+  : [1680033451, 25934696]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Sessions/MemorySessions.swift": [1680033451, 26090145]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Sessions/Request+Session.swift": [1680033451, 26232719]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Sessions/Session.swift": [1680033451, 26436328]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Sessions/SessionCache.swift": [1680033451, 26611804]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Sessions/SessionData.swift": [1680033451, 26772499]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Sessions/SessionDriver.swift": [1680033451, 26987075]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Sessions/SessionsConfiguration.swift"
+  : [1680033451, 27141571]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Sessions/SessionsMiddleware.swift": [1680033451, 27321815]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/URLEncodedForm/DateFormatter+threadSpecific.swift"
+  : [1680033451, 27534246]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/URLEncodedForm/URLEncodedFormData.swift"
+  : [1680033451, 27678251]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/URLEncodedForm/URLEncodedFormDecoder.swift"
+  : [1680033451, 27926683]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/URLEncodedForm/URLEncodedFormEncoder.swift"
+  : [1680033451, 28149366]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/URLEncodedForm/URLEncodedFormError.swift"
+  : [1680033451, 28299808]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/URLEncodedForm/URLEncodedFormParser.swift"
+  : [1680033451, 28489589]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/URLEncodedForm/URLEncodedFormSerializer.swift"
+  : [1680033451, 28688430]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/URLEncodedForm/URLQueryFragmentConvertible.swift"
+  : [1680033451, 28828144]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Utilities/AnyResponse.swift": [1680033451, 29200077]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Utilities/Array+Random.swift": [1680033451, 29347181]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Utilities/Base32.swift": [1680033451, 29517889]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Utilities/Base64.swift": [1680033451, 29635429]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Utilities/BaseN.swift": [1680033451, 29776334]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Utilities/BasicCodingKey.swift": [1680033451, 29932022]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Utilities/ByteCount.swift": [1680033451, 30064105]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Utilities/Bytes+Hex.swift": [1680033451, 30189990]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Utilities/Bytes+SecureCompare.swift"
+  : [1680033451, 30318260]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Utilities/Collection+Safe.swift": [1680033451, 30453205]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Utilities/DataProtocol+Copy.swift": [1680033451, 30574321]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Utilities/DecoderUnwrapper.swift": [1680033451, 30689239]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Utilities/DirectoryConfiguration.swift"
+  : [1680033451, 30812978]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Utilities/DotEnv.swift": [1680033451, 30943393]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Utilities/Extendable.swift": [1680033451, 31083583]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Utilities/File.swift": [1680033451, 31223773]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Utilities/FileIO.swift": [1680033451, 31389236]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Utilities/LifecycleHandler.swift": [1680033451, 31512737]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Utilities/OptionalType.swift": [1680033451, 31641960]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Utilities/RFC1123.swift": [1680033451, 31785249]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Utilities/SocketAddress+Hostname.swift"
+  : [1680033451, 31918525]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Utilities/Storage.swift": [1680033451, 32057523]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Utilities/String+IsIPAddress.swift"
+  : [1680033451, 32193899]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Utilities/Thread.swift": [1680033451, 32338619]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Utilities/URI.swift": [1680033451, 32488822]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Validation/RangeResult.swift": [1680033451, 32712459]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Validation/Validatable.swift": [1680033451, 32836198]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Validation/Validation.swift": [1680033451, 32973766]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Validation/ValidationKey.swift": [1680033451, 33087730]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Validation/Validations.swift": [1680033451, 33215999]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Validation/ValidationsError.swift": [1680033451, 33345222]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Validation/Validator.swift": [1680033451, 33487319]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Validation/ValidatorResult.swift": [1680033451, 33656597]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Validation/Validators/And.swift": [1680033451, 33986091]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Validation/Validators/Case.swift": [1680033451, 34245491]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Validation/Validators/CharacterSet.swift"
+  : [1680033451, 34534454]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Validation/Validators/Count.swift": [1680033451, 34757375]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Validation/Validators/Email.swift": [1680033451, 34963130]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Validation/Validators/Empty.swift": [1680033451, 35127401]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Validation/Validators/In.swift": [1680033451, 35310745]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Validation/Validators/Nil.swift": [1680033451, 35455942]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Validation/Validators/NilIgnoring.swift"
+  : [1680033451, 35627603]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Validation/Validators/Not.swift": [1680033451, 35754680]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Validation/Validators/Or.swift": [1680033451, 35884380]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Validation/Validators/Pattern.swift"
+  : [1680033451, 36043643]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Validation/Validators/Range.swift": [1680033451, 36211729]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Validation/Validators/URL.swift": [1680033451, 36463260]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/Validation/Validators/Valid.swift": [1680033451, 36711692]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/View/Application+Views.swift": [1680033451, 37015676]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/View/PlaintextRenderer.swift": [1680033451, 37237167]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/View/Request+View.swift": [1680033451, 37430763]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/View/View.swift": [1680033451, 37609100]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/View/ViewRenderer.swift": [1680033451, 37796497]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/vapor/Sources/Vapor/_Deprecations.swift": [1680033451, 38031816]

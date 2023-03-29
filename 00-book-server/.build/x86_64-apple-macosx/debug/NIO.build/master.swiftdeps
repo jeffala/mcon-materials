@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "79caed1f2b03f6de968e946c19a7505c65cc09e17b176d84138f04d3d5f2b0fd"
+build_start_time: [1680033497, 271862983]
+build_end_time: [1680033497, 496238946]
+inputs:
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIO/Exports.swift": [1680033452, 361510276]

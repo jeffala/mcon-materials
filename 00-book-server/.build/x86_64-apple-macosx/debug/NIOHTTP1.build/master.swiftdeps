@@ -1,0 +1,23 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "c1075cf895fac0645f39b6549c58e6d03598486bd08632713605ad606fc806cc"
+build_start_time: [1680033497, 640007019]
+build_end_time: [1680033500, 349084854]
+inputs:
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOHTTP1/ByteCollectionUtils.swift": [1680033452, 384607553]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPDecoder.swift": [1680033452, 384912252]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPEncoder.swift": [1680033452, 385234832]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPHeaderValidator.swift": [1680033452, 385402202]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPHeaders+Validation.swift"
+  : [1680033452, 385545730]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPPipelineSetup.swift": [1680033452, 385727405]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPServerPipelineHandler.swift"
+  : [1680033452, 385945320]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPServerProtocolErrorHandler.swift"
+  : [1680033452, 386120557]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPServerUpgradeHandler.swift"
+  : [1680033452, 386323928]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPTypes.swift": [1680033452, 386715412]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOHTTP1/NIOHTTPClientUpgradeHandler.swift"
+  : [1680033452, 386939525]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOHTTP1/NIOHTTPObjectAggregator.swift"
+  : [1680033452, 387158393]

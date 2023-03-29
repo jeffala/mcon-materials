@@ -1,0 +1,116 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "bddface33e6661934a52798814dda5ef70e29a79474ab3e59a447fa2e3162043"
+build_start_time: [1680033466, 605804920]
+build_end_time: [1680033481, 475702047]
+inputs:
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/AEADs/AES/GCM/AES-GCM.swift"
+  : [1680033448, 818753719]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/AEADs/AES/GCM/BoringSSL/AES-GCM_boring.swift"
+  : [1680033448, 818978786]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/AEADs/ChachaPoly/BoringSSL/ChaChaPoly_boring.swift"
+  : [1680033448, 819329261]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/AEADs/ChachaPoly/ChaChaPoly.swift"
+  : [1680033448, 819529056]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/AEADs/Cipher.swift": [1680033448, 819761276]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/AEADs/Nonces.swift": [1680033448, 820309162]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/ASN1.swift": [1680033448, 820933818]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/Basic ASN1 Types/ASN1Any.swift"
+  : [1680033448, 821383953]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/Basic ASN1 Types/ASN1BitString.swift"
+  : [1680033448, 821698188]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/Basic ASN1 Types/ASN1Boolean.swift"
+  : [1680033448, 821970224]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/Basic ASN1 Types/ASN1Identifier.swift"
+  : [1680033448, 822185277]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/Basic ASN1 Types/ASN1Integer.swift"
+  : [1680033448, 822385787]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/Basic ASN1 Types/ASN1Null.swift"
+  : [1680033448, 822590351]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/Basic ASN1 Types/ASN1OctetString.swift"
+  : [1680033448, 822803497]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/Basic ASN1 Types/ASN1Strings.swift"
+  : [1680033448, 823056459]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/Basic ASN1 Types/ArraySliceBigint.swift"
+  : [1680033448, 823218822]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/Basic ASN1 Types/GeneralizedTime.swift"
+  : [1680033448, 823407888]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/Basic ASN1 Types/ObjectIdentifier.swift"
+  : [1680033448, 823529243]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/ECDSASignature.swift": [1680033448, 823704242]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/PEMDocument.swift": [1680033448, 823856353]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/PKCS8PrivateKey.swift"
+  : [1680033448, 824079036]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/SEC1PrivateKey.swift": [1680033448, 824320316]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/ASN1/SubjectPublicKeyInfo.swift"
+  : [1680033448, 824519634]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/CryptoKitErrors.swift": [1680033448, 824798583]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/Digests/BoringSSL/Digest_boring.swift"
+  : [1680033448, 825140953]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/Digests/Digest.swift": [1680033448, 825282096]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/Digests/Digests.swift": [1680033448, 825435876]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/Digests/HashFunctions.swift"
+  : [1680033448, 825826168]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/Digests/HashFunctions_SHA2.swift"
+  : [1680033448, 826025962]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/Insecure/Insecure.swift": [1680033448, 826248884]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/Insecure/Insecure_HashFunctions.swift"
+  : [1680033448, 826377391]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/Key Agreement/BoringSSL/ECDH_boring.swift"
+  : [1680033448, 826716899]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/Key Agreement/DH.swift": [1680033448, 826911449]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/Key Agreement/ECDH.swift": [1680033448, 827091693]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/Key Derivation/HKDF.swift": [1680033448, 827483177]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/Key Wrapping/AESWrap.swift"
+  : [1680033448, 827664852]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/Key Wrapping/BoringSSL/AESWrap_boring.swift"
+  : [1680033448, 827869653]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/Keys/EC/BoringSSL/Ed25519_boring.swift"
+  : [1680033448, 828243017]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/Keys/EC/BoringSSL/EllipticCurvePoint_boring.swift"
+  : [1680033448, 828448057]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/Keys/EC/BoringSSL/EllipticCurve_boring.swift"
+  : [1680033448, 828597545]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/Keys/EC/BoringSSL/NISTCurvesKeys_boring.swift"
+  : [1680033448, 828867197]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/Keys/EC/BoringSSL/X25519Keys_boring.swift"
+  : [1680033448, 829037666]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/Keys/EC/Curve25519.swift": [1680033448, 829198360]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/Keys/EC/Ed25519.swift": [1680033448, 829724311]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/Keys/EC/NISTCurvesKeys.swift"
+  : [1680033448, 829877376]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/Keys/EC/X25519Keys.swift": [1680033448, 830020189]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/Keys/Symmetric/SymmetricKeys.swift"
+  : [1680033448, 830233097]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/Message Authentication Codes/HMAC/HMAC.swift"
+  : [1680033448, 830536842]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/Message Authentication Codes/MACFunctions.swift"
+  : [1680033448, 830673217]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/Message Authentication Codes/MessageAuthenticationCode.swift"
+  : [1680033448, 830803871]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/PRF/AES.swift": [1680033448, 830980300]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/Signatures/BoringSSL/ECDSASignature_boring.swift"
+  : [1680033448, 831241846]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/Signatures/BoringSSL/ECDSA_boring.swift"
+  : [1680033448, 831377029]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/Signatures/BoringSSL/EdDSA_boring.swift"
+  : [1680033448, 831515789]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/Signatures/ECDSA.swift": [1680033448, 831672668]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/Signatures/EdDSA.swift": [1680033448, 831968784]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/Signatures/Signature.swift"
+  : [1680033448, 832083702]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/Util/BoringSSL/ArbitraryPrecisionInteger_boring.swift"
+  : [1680033448, 832428455]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/Util/BoringSSL/CryptoKitErrors_boring.swift"
+  : [1680033448, 832599163]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/Util/BoringSSL/FiniteFieldArithmeticContext_boring.swift"
+  : [1680033448, 832710981]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/Util/BoringSSL/RNG_boring.swift"
+  : [1680033448, 832893371]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/Util/BoringSSL/SafeCompare_boring.swift"
+  : [1680033448, 833029270]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/Util/BoringSSL/Zeroization_boring.swift"
+  : [1680033448, 833206892]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/Util/PrettyBytes.swift": [1680033448, 833344936]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/Util/SafeCompare.swift": [1680033448, 833508253]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/Util/SecureBytes.swift": [1680033448, 833689451]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-crypto/Sources/Crypto/Util/Zeroization.swift": [1680033448, 833926916]

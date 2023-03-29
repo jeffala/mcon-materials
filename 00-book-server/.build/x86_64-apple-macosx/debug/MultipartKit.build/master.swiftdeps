@@ -1,0 +1,43 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "1b8b46c98c223d38a7ee02f2c43cee40732678a7ccb0bb54bd41b53d7c1614e9"
+build_start_time: [1680033500, 530058860]
+build_end_time: [1680033504, 571074008]
+inputs:
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/multipart-kit/Sources/MultipartKit/BasicCodingKey.swift"
+  : [1680033454, 68431615]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/multipart-kit/Sources/MultipartKit/Deprecated/MultipartError.swift"
+  : [1680033454, 68668365]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/multipart-kit/Sources/MultipartKit/Exports.swift": [1680033454, 69458007]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/multipart-kit/Sources/MultipartKit/FormDataDecoder/FormDataDecoder.Decoder.swift"
+  : [1680033454, 69701671]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/multipart-kit/Sources/MultipartKit/FormDataDecoder/FormDataDecoder.KeyedContainer.swift"
+  : [1680033454, 69847345]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/multipart-kit/Sources/MultipartKit/FormDataDecoder/FormDataDecoder.SingleValueContainer.swift"
+  : [1680033454, 69996356]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/multipart-kit/Sources/MultipartKit/FormDataDecoder/FormDataDecoder.UnkeyedContainer.swift"
+  : [1680033454, 70147037]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/multipart-kit/Sources/MultipartKit/FormDataDecoder/FormDataDecoder.swift"
+  : [1680033454, 70511102]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/multipart-kit/Sources/MultipartKit/FormDataEncoder/FormDataEncoder.Encoder.swift"
+  : [1680033454, 70725202]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/multipart-kit/Sources/MultipartKit/FormDataEncoder/FormDataEncoder.KeyedContainer.swift"
+  : [1680033454, 70865154]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/multipart-kit/Sources/MultipartKit/FormDataEncoder/FormDataEncoder.SingleValueContainer.swift"
+  : [1680033454, 70982694]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/multipart-kit/Sources/MultipartKit/FormDataEncoder/FormDataEncoder.UnkeyedContainer.swift"
+  : [1680033454, 71108818]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/multipart-kit/Sources/MultipartKit/FormDataEncoder/FormDataEncoder.swift"
+  : [1680033454, 71429729]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/multipart-kit/Sources/MultipartKit/FormDataEncoder/Storage.swift"
+  : [1680033454, 71575403]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/multipart-kit/Sources/MultipartKit/MultipartFormData.swift"
+  : [1680033454, 71979522]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/multipart-kit/Sources/MultipartKit/MultipartParser.swift"
+  : [1680033454, 72359561]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/multipart-kit/Sources/MultipartKit/MultipartPart.swift"
+  : [1680033454, 72658538]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/multipart-kit/Sources/MultipartKit/MultipartPartConvertible.swift"
+  : [1680033454, 72804927]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/multipart-kit/Sources/MultipartKit/MultipartSerializer.swift"
+  : [1680033454, 73317766]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/multipart-kit/Sources/MultipartKit/Utilities.swift": [1680033454, 73691129]

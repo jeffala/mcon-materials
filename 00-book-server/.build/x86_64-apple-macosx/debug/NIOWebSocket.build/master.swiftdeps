@@ -1,0 +1,23 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "a7205894cc754e6de421f80a754f012cb70ffbf4bfba9413049e645964d51a5c"
+build_start_time: [1680033500, 526924133]
+build_end_time: [1680033503, 638732910]
+inputs:
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOWebSocket/Base64.swift": [1680033452, 408056259]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOWebSocket/NIOWebSocketClientUpgrader.swift"
+  : [1680033452, 408248901]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOWebSocket/NIOWebSocketFrameAggregator.swift"
+  : [1680033452, 408456802]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOWebSocket/NIOWebSocketServerUpgrader.swift"
+  : [1680033452, 408664703]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOWebSocket/SHA1.swift": [1680033452, 408812046]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOWebSocket/WebSocketErrorCodes.swift"
+  : [1680033452, 408964157]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOWebSocket/WebSocketFrame.swift": [1680033452, 409125089]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOWebSocket/WebSocketFrameDecoder.swift"
+  : [1680033452, 409327507]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOWebSocket/WebSocketFrameEncoder.swift"
+  : [1680033452, 409498691]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOWebSocket/WebSocketOpcode.swift": [1680033452, 409684419]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/NIOWebSocket/WebSocketProtocolErrorHandler.swift"
+  : [1680033452, 409874439]

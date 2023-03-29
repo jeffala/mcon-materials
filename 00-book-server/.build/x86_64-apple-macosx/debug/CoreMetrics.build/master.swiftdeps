@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "1dc95f65423d5bb7100f4035dca48db805c21703fcb6eb191d90af505bcd6f93"
+build_start_time: [1680033466, 589727878]
+build_end_time: [1680033471, 595520019]
+inputs:
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-metrics/Sources/CoreMetrics/Locks.swift": [1680033449, 300828456]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-metrics/Sources/CoreMetrics/Metrics.swift": [1680033449, 301223754]

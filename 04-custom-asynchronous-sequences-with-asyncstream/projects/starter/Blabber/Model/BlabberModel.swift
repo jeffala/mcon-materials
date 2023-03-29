@@ -84,6 +84,23 @@ class BlabberModel: ObservableObject {
 
   /// Reads the server chat stream and updates the data model.
   private func readMessages(stream: URLSession.AsyncBytes) async throws {
+    var iterator = stream.lines.makeAsyncIterator()
+    
+    guard let first = try await iterator.next() else {
+      throw "No response from server."
+    }
+    
+    guard
+      let data = first.data(using: .utf8),
+      let status = try? JSONDecoder()
+        .decode(ServerStatus.self, from: data)
+        messages.append(
+          Message(message: "\(status.activeUsers) active users")
+        )
+        
+    else {
+      throw "Invalid response from server"
+    }
   }
 
   /// Sends the user's message to the chat server

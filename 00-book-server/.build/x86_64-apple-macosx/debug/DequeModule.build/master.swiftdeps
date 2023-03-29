@@ -1,0 +1,42 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "30cc2ac0a8c821c690b452e1fac932437829aa04dc84f47d002fc536cdccd580"
+build_start_time: [1680033466, 594470977]
+build_end_time: [1680033470, 9382963]
+inputs:
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/DequeModule/Compatibility.swift"
+  : [1680033449, 660845756]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/DequeModule/Deque+Codable.swift"
+  : [1680033449, 661333799]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/DequeModule/Deque+Collection.swift"
+  : [1680033449, 661733627]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/DequeModule/Deque+CustomDebugStringConvertible.swift"
+  : [1680033449, 661927700]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/DequeModule/Deque+CustomReflectable.swift"
+  : [1680033449, 662053823]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/DequeModule/Deque+CustomStringConvertible.swift"
+  : [1680033449, 662181615]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/DequeModule/Deque+Equatable.swift"
+  : [1680033449, 662480354]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/DequeModule/Deque+ExpressibleByArrayLiteral.swift"
+  : [1680033449, 663023948]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/DequeModule/Deque+Extras.swift"
+  : [1680033449, 663201332]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/DequeModule/Deque+Hashable.swift"
+  : [1680033449, 663371562]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/DequeModule/Deque+Testing.swift"
+  : [1680033449, 663557529]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/DequeModule/Deque._Storage.swift"
+  : [1680033449, 663727760]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/DequeModule/Deque._UnsafeHandle.swift"
+  : [1680033449, 663933753]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/DequeModule/Deque.swift": [1680033449, 664092540]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/DequeModule/UnsafeMutableBufferPointer+Utilities.swift"
+  : [1680033449, 664612531]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/DequeModule/_DequeBuffer.swift"
+  : [1680033449, 664737701]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/DequeModule/_DequeBufferHeader.swift"
+  : [1680033449, 664865732]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/DequeModule/_DequeSlot.swift"
+  : [1680033449, 665051937]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-collections/Sources/DequeModule/_UnsafeWrappedBuffer.swift"
+  : [1680033449, 665191650]

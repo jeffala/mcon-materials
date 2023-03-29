@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "9816827e00bf53c752be5120d0a0ce049ce0369f4e821b1028f7a3161443f5f8"
+build_start_time: [1680033488, 192610979]
+build_end_time: [1680033488, 332774162]
+inputs:
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-backtrace/Sources/Backtrace/Backtrace.swift": [1680033450, 656985759]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-backtrace/Sources/Backtrace/Demangle.swift": [1680033450, 657167434]

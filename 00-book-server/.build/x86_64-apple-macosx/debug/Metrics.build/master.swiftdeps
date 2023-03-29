@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "3caf4cad3c9d287c943baf8a96a5f5094f624fe0485c3199d41cc29fe12e48bc"
+build_start_time: [1680033471, 747425079]
+build_end_time: [1680033481, 527107000]
+inputs:
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-metrics/Sources/Metrics/Metrics.swift": [1680033449, 301769256]

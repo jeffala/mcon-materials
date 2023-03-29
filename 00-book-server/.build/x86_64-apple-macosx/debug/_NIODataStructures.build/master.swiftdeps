@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "6390810f3248cff578f6634611735788bf86d734524b6f31816df5b6dcae299a"
+build_start_time: [1680033466, 589529991]
+build_end_time: [1680033470, 966645956]
+inputs:
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/_NIODataStructures/Heap.swift": [1680033452, 411087989]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/_NIODataStructures/PriorityQueue.swift"
+  : [1680033452, 411269187]

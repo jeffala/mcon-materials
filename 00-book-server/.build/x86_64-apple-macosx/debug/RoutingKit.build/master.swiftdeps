@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "c88e730242d6c0e76a485536b00cd0f60ea21f1e49bd95b2fe59b5d3a55958dd"
+build_start_time: [1680033473, 315803050]
+build_end_time: [1680033480, 654119968]
+inputs:
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/routing-kit/Sources/RoutingKit/AnyRouter.swift": [1680033454, 362092256]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/routing-kit/Sources/RoutingKit/Parameters.swift": [1680033454, 363071918]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/routing-kit/Sources/RoutingKit/PathComponent.swift": [1680033454, 363246440]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/routing-kit/Sources/RoutingKit/Router.swift": [1680033454, 363642930]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/routing-kit/Sources/RoutingKit/TrieRouter.swift": [1680033454, 364158153]

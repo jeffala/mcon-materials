@@ -1,0 +1,14 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "435413721ac8f413076d83427aa7807d412a2d2c148fe2d0c0853afa9d3b4190"
+build_start_time: [1680033530, 218013048]
+build_end_time: [1680033535, 46194076]
+inputs:
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/Sources/App/Routes/Blabber.swift": [1679873552, 228008270]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/Sources/App/Routes/Clipper.swift": [1679873552, 228232145]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/Sources/App/Routes/EasterEgg.swift": [1679873552, 228459835]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/Sources/App/Routes/Gallery.swift": [1679873552, 228633403]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/Sources/App/Routes/Hello.swift": [1679873552, 228802204]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/Sources/App/Routes/LittleJohn.swift": [1679873552, 228974342]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/Sources/App/Routes/SuperStorage.swift": [1679873552, 229179382]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/Sources/App/configure.swift": [1679873552, 229390144]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/Sources/App/routes.swift": [1679873552, 229552507]

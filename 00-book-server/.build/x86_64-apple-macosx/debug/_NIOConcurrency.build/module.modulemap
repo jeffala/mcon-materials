@@ -1,0 +1,4 @@
+module _NIOConcurrency {
+    header "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/x86_64-apple-macosx/debug/_NIOConcurrency.build/_NIOConcurrency-Swift.h"
+    requires objc
+}

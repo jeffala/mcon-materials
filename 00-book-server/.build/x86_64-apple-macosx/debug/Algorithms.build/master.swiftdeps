@@ -1,0 +1,36 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "b54ee8752bc8f8b3afce90df616bf555a91c2fd63ff2bc990f99d77446c71f4e"
+build_start_time: [1680033471, 124444007]
+build_end_time: [1680033475, 303014993]
+inputs:
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-algorithms/Sources/Algorithms/AdjacentPairs.swift"
+  : [1680033451, 392903566]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-algorithms/Sources/Algorithms/Chain.swift": [1680033451, 393363475]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-algorithms/Sources/Algorithms/Chunked.swift": [1680033451, 393877983]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-algorithms/Sources/Algorithms/Combinations.swift"
+  : [1680033451, 394396305]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-algorithms/Sources/Algorithms/Compacted.swift": [1680033451, 394593715]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-algorithms/Sources/Algorithms/Cycle.swift": [1680033451, 394760608]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-algorithms/Sources/Algorithms/EitherSequence.swift"
+  : [1680033451, 394914865]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-algorithms/Sources/Algorithms/FirstNonNil.swift": [1680033451, 395060062]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-algorithms/Sources/Algorithms/FlattenCollection.swift"
+  : [1680033451, 395234584]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-algorithms/Sources/Algorithms/Indexed.swift": [1680033451, 395413160]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-algorithms/Sources/Algorithms/Intersperse.swift": [1680033451, 395750522]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-algorithms/Sources/Algorithms/Joined.swift": [1680033451, 396007776]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-algorithms/Sources/Algorithms/MinMax.swift": [1680033451, 396456718]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-algorithms/Sources/Algorithms/Partition.swift": [1680033451, 396774768]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-algorithms/Sources/Algorithms/Permutations.swift"
+  : [1680033451, 397015571]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-algorithms/Sources/Algorithms/Product.swift": [1680033451, 397264003]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-algorithms/Sources/Algorithms/RandomSample.swift"
+  : [1680033451, 397715568]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-algorithms/Sources/Algorithms/Reductions.swift": [1680033451, 397994995]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-algorithms/Sources/Algorithms/Rotate.swift": [1680033451, 398214817]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-algorithms/Sources/Algorithms/Split.swift": [1680033451, 398458480]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-algorithms/Sources/Algorithms/Stride.swift": [1680033451, 398766040]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-algorithms/Sources/Algorithms/Suffix.swift": [1680033451, 398922920]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-algorithms/Sources/Algorithms/Trim.swift": [1680033451, 399085044]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-algorithms/Sources/Algorithms/Unique.swift": [1680033451, 399824857]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-algorithms/Sources/Algorithms/Windows.swift": [1680033451, 400062799]

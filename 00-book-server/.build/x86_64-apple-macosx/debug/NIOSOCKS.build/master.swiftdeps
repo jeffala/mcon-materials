@@ -1,0 +1,29 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "391559b29555665cea18b3971afd5df8c67924c8ee16810ea6743774b7dfb38b"
+build_start_time: [1680033497, 640253067]
+build_end_time: [1680033499, 310724020]
+inputs:
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio-extras/Sources/NIOSOCKS/Channel Handlers/SOCKSClientHandler.swift"
+  : [1680033447, 620145559]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio-extras/Sources/NIOSOCKS/Channel Handlers/SOCKSServerHandshakeHandler.swift"
+  : [1680033447, 620323657]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio-extras/Sources/NIOSOCKS/Messages/AuthenticationMethod.swift"
+  : [1680033447, 620790958]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio-extras/Sources/NIOSOCKS/Messages/ClientGreeting.swift"
+  : [1680033447, 620946407]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio-extras/Sources/NIOSOCKS/Messages/Errors.swift"
+  : [1680033447, 621100425]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio-extras/Sources/NIOSOCKS/Messages/Helpers.swift"
+  : [1680033447, 621258497]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio-extras/Sources/NIOSOCKS/Messages/Messages.swift"
+  : [1680033447, 621414661]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio-extras/Sources/NIOSOCKS/Messages/SOCKSRequest.swift"
+  : [1680033447, 621599674]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio-extras/Sources/NIOSOCKS/Messages/SOCKSResponse.swift"
+  : [1680033447, 621812820]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio-extras/Sources/NIOSOCKS/Messages/SelectedAuthenticationMethod.swift"
+  : [1680033447, 621993541]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio-extras/Sources/NIOSOCKS/State/ClientStateMachine.swift"
+  : [1680033447, 622265100]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio-extras/Sources/NIOSOCKS/State/ServerStateMachine.swift"
+  : [1680033447, 622413635]

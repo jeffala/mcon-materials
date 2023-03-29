@@ -1,0 +1,4 @@
+module Crypto {
+    header "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/x86_64-apple-macosx/debug/Crypto.build/Crypto-Swift.h"
+    requires objc
+}

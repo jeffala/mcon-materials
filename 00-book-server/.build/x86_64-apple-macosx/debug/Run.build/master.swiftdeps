@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "a9400be84f9164c351a55bf8a0f8cef1c21ddc1d5bfe1d43d19d2c08d2699675"
+build_start_time: [1680033535, 185858011]
+build_end_time: [1680033535, 657202005]
+inputs:
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/Sources/Run/main.swift": [1679873552, 229806661]

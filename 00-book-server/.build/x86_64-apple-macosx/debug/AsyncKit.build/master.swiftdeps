@@ -1,0 +1,50 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "238d1b5022ef54bf20a2b068bf5d70a7c0f60171159c41e9eb11d4851cb03ced"
+build_start_time: [1680033497, 644505023]
+build_end_time: [1680033508, 397542953]
+inputs:
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/async-kit/Sources/AsyncKit/ConnectionPool/ConnectionPoolError.swift"
+  : [1680033451, 996829271]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/async-kit/Sources/AsyncKit/ConnectionPool/ConnectionPoolItem.swift"
+  : [1680033451, 997054100]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/async-kit/Sources/AsyncKit/ConnectionPool/ConnectionPoolSource.swift"
+  : [1680033451, 997332096]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/async-kit/Sources/AsyncKit/ConnectionPool/EventLoopConnectionPool.swift"
+  : [1680033451, 997618675]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/async-kit/Sources/AsyncKit/ConnectionPool/EventLoopGroupConnectionPool.swift"
+  : [1680033451, 997878313]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/async-kit/Sources/AsyncKit/EventLoop/EventLoop+Concurrency.swift"
+  : [1680033451, 998286247]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/async-kit/Sources/AsyncKit/EventLoop/EventLoop+Flatten.swift"
+  : [1680033451, 998462200]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/async-kit/Sources/AsyncKit/EventLoop/EventLoop+Future.swift"
+  : [1680033451, 998609542]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/async-kit/Sources/AsyncKit/EventLoop/EventLoopGroup+Concurrency.swift"
+  : [1680033451, 998766422]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/async-kit/Sources/AsyncKit/EventLoop/EventLoopGroup+Throwing.swift"
+  : [1680033451, 999039411]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/async-kit/Sources/AsyncKit/EventLoopFuture/Collection+Flatten.swift"
+  : [1680033451, 999282360]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/async-kit/Sources/AsyncKit/EventLoopFuture/EventLoopFutureQueue+Sequence.swift"
+  : [1680033451, 999575614]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/async-kit/Sources/AsyncKit/EventLoopFuture/EventLoopFutureQueue.swift"
+  : [1680033451, 999802589]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/async-kit/Sources/AsyncKit/EventLoopFuture/Future+Collection.swift"
+  : [1680033452, 135898]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/async-kit/Sources/AsyncKit/EventLoopFuture/Future+Conjunctions.swift"
+  : [1680033452, 424861]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/async-kit/Sources/AsyncKit/EventLoopFuture/Future+Miscellaneous.swift"
+  : [1680033452, 611066]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/async-kit/Sources/AsyncKit/EventLoopFuture/Future+Nonempty.swift"
+  : [1680033452, 766038]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/async-kit/Sources/AsyncKit/EventLoopFuture/Future+Optional.swift"
+  : [1680033452, 928878]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/async-kit/Sources/AsyncKit/EventLoopFuture/Future+Transform.swift"
+  : [1680033452, 1116037]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/async-kit/Sources/AsyncKit/EventLoopFuture/Future+Try.swift"
+  : [1680033452, 1429557]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/async-kit/Sources/AsyncKit/EventLoopFuture/FutureOperators.swift"
+  : [1680033452, 1621723]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/async-kit/Sources/AsyncKit/EventLoopFuture/Optional+StrictMap.swift"
+  : [1680033452, 1857757]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/async-kit/Sources/AsyncKit/Exports.swift": [1680033452, 2072811]

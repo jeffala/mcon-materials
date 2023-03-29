@@ -1,0 +1,37 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "57128f7198e344feaeb6738e6682527e9f0425a135c47c03058f6d9ba7894621"
+build_start_time: [1680033500, 526925086]
+build_end_time: [1680033504, 805333137]
+inputs:
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio-extras/Sources/NIOExtras/DebugInboundEventsHandler.swift"
+  : [1680033447, 611443519]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio-extras/Sources/NIOExtras/DebugOutboundEventsHandler.swift"
+  : [1680033447, 611623287]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio-extras/Sources/NIOExtras/FixedLengthFrameDecoder.swift"
+  : [1680033447, 612216472]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio-extras/Sources/NIOExtras/HTTP1ProxyConnectHandler.swift"
+  : [1680033447, 612464427]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio-extras/Sources/NIOExtras/JSONRPCFraming+ContentLengthHeader.swift"
+  : [1680033447, 612858057]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio-extras/Sources/NIOExtras/JSONRPCFraming.swift"
+  : [1680033447, 613029003]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio-extras/Sources/NIOExtras/LengthFieldBasedFrameDecoder.swift"
+  : [1680033447, 613171100]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio-extras/Sources/NIOExtras/LengthFieldPrepender.swift"
+  : [1680033447, 613350391]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio-extras/Sources/NIOExtras/LineBasedFrameDecoder.swift"
+  : [1680033447, 613510131]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio-extras/Sources/NIOExtras/MarkedCircularBuffer+PopFirstCheckMarked.swift"
+  : [1680033447, 613672971]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio-extras/Sources/NIOExtras/NIOExtrasError.swift"
+  : [1680033447, 613837242]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio-extras/Sources/NIOExtras/NIOLengthFieldBitLength.swift"
+  : [1680033447, 614111423]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio-extras/Sources/NIOExtras/PCAPRingBuffer.swift"
+  : [1680033447, 614327430]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio-extras/Sources/NIOExtras/QuiescingHelper.swift"
+  : [1680033447, 614567279]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio-extras/Sources/NIOExtras/RequestResponseHandler.swift"
+  : [1680033447, 614761829]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio-extras/Sources/NIOExtras/WritePCAPHandler.swift"
+  : [1680033447, 615519523]

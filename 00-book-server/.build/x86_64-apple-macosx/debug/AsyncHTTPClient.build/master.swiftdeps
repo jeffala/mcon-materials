@@ -1,0 +1,126 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "f925be264700c262034205bce7343658f3581da3e05c2eac95bd0b8b23f6c564"
+build_start_time: [1680033522, 217845916]
+build_end_time: [1680033524, 723801136]
+inputs:
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/AsyncAwait/AnyAsyncSequence.swift"
+  : [1680033452, 836274862]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/AsyncAwait/AsyncLazySequence.swift"
+  : [1680033452, 836493968]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/AsyncAwait/HTTPClient+execute.swift"
+  : [1680033452, 836791038]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/AsyncAwait/HTTPClient+shutdown.swift"
+  : [1680033452, 837498188]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/AsyncAwait/HTTPClientRequest+Prepared.swift"
+  : [1680033452, 837801456]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/AsyncAwait/HTTPClientRequest.swift"
+  : [1680033452, 838049650]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/AsyncAwait/HTTPClientResponse.swift"
+  : [1680033452, 838224887]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/AsyncAwait/SingleIteratorPrecondition.swift"
+  : [1680033452, 838503122]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/AsyncAwait/Transaction+StateMachine.swift"
+  : [1680033452, 838864564]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/AsyncAwait/Transaction.swift"
+  : [1680033452, 839096546]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/AsyncAwait/TransactionBody.swift"
+  : [1680033452, 839248418]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/Base64.swift"
+  : [1680033452, 839516639]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/BestEffortHashableTLSConfiguration.swift"
+  : [1680033452, 839712142]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool.swift"
+  : [1680033452, 839972019]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/ChannelHandler/HTTP1ProxyConnectHandler.swift"
+  : [1680033452, 840343236]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/ChannelHandler/SOCKSEventsHandler.swift"
+  : [1680033452, 840536117]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/ChannelHandler/TLSEventsHandler.swift"
+  : [1680033452, 840713262]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/HTTP1/HTTP1ClientChannelHandler.swift"
+  : [1680033452, 841011047]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/HTTP1/HTTP1Connection.swift"
+  : [1680033452, 841583251]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/HTTP1/HTTP1ConnectionStateMachine.swift"
+  : [1680033452, 842177391]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/HTTP2/HTTP2ClientRequestHandler.swift"
+  : [1680033452, 842468976]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/HTTP2/HTTP2Connection.swift"
+  : [1680033452, 842633247]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/HTTP2/HTTP2IdleHandler.swift"
+  : [1680033452, 843147993]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/HTTPConnectionEvent.swift"
+  : [1680033452, 843307733]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/HTTPConnectionPool+Factory.swift"
+  : [1680033452, 843582153]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/HTTPConnectionPool+Manager.swift"
+  : [1680033452, 844373226]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/HTTPConnectionPool.swift"
+  : [1680033452, 844617366]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/HTTPExecutableRequest.swift"
+  : [1680033452, 844871759]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/HTTPRequestStateMachine+Demand.swift"
+  : [1680033452, 845165014]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/HTTPRequestStateMachine.swift"
+  : [1680033452, 845349788]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/RequestBodyLength.swift"
+  : [1680033452, 845518350]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/RequestFramingMetadata.swift"
+  : [1680033452, 845755338]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/RequestOptions.swift"
+  : [1680033452, 845980882]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/State Machine/HTTPConnectionPool+Backoff.swift"
+  : [1680033452, 846430301]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/State Machine/HTTPConnectionPool+HTTP1Connections.swift"
+  : [1680033452, 847153663]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/State Machine/HTTPConnectionPool+HTTP1StateMachine.swift"
+  : [1680033452, 847350120]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/State Machine/HTTPConnectionPool+HTTP2Connections.swift"
+  : [1680033452, 847640752]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/State Machine/HTTPConnectionPool+HTTP2StateMachine.swift"
+  : [1680033452, 847869157]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/State Machine/HTTPConnectionPool+RequestQueue.swift"
+  : [1680033452, 848111152]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionPool/State Machine/HTTPConnectionPool+StateMachine.swift"
+  : [1680033452, 848289489]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/ConnectionTarget.swift"
+  : [1680033452, 848466873]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/DeconstructedURL.swift"
+  : [1680033452, 848692893]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/FileDownloadDelegate.swift"
+  : [1680033452, 849163770]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/FoundationExtensions.swift"
+  : [1680033452, 849322795]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/HTTPClient+HTTPCookie.swift"
+  : [1680033452, 849533319]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/HTTPClient+Proxy.swift"
+  : [1680033452, 849691390]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/HTTPClient.swift"
+  : [1680033452, 850130081]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/HTTPHandler.swift"
+  : [1680033452, 850463867]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/LRUCache.swift"
+  : [1680033452, 850654840]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/NIOTransportServices/NWErrorHandler.swift"
+  : [1680033452, 851013183]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/NIOTransportServices/NWWaitingHandler.swift"
+  : [1680033452, 851249933]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/NIOTransportServices/TLSConfiguration.swift"
+  : [1680033452, 851448535]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/RedirectState.swift"
+  : [1680033452, 851610183]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/RequestBag+StateMachine.swift"
+  : [1680033452, 851868629]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/RequestBag.swift"
+  : [1680033452, 852084636]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/RequestValidation.swift"
+  : [1680033452, 852303504]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/SSLContextCache.swift"
+  : [1680033452, 852461338]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/Scheme.swift"
+  : [1680033452, 852601528]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/StringConvertibleInstances.swift"
+  : [1680033452, 852779150]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/UnsafeTransfer.swift"
+  : [1680033452, 852918624]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/async-http-client/Sources/AsyncHTTPClient/Utils.swift": [1680033452, 853113174]

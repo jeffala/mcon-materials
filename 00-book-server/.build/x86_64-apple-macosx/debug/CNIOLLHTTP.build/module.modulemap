@@ -1,0 +1,4 @@
+module CNIOLLHTTP {
+    umbrella header "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/swift-nio/Sources/CNIOLLHTTP/include/CNIOLLHTTP.h"
+    export *
+}

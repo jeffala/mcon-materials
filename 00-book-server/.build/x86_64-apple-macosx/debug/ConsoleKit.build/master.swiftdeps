@@ -1,0 +1,94 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "0b98ad99417da614dde753fa6bb194a3e60c23dc44f22f36867e8c6ad15e58f9"
+build_start_time: [1680033473, 492926120]
+build_end_time: [1680033480, 908995151]
+inputs:
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Activity/ActivityBar.swift"
+  : [1680033451, 696162223]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Activity/ActivityIndicator.swift"
+  : [1680033451, 696351051]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Activity/ActivityIndicatorRenderer.swift"
+  : [1680033451, 696499824]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Activity/ActivityIndicatorState.swift"
+  : [1680033451, 696647644]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Activity/CustomActivity.swift"
+  : [1680033451, 696845531]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Activity/LoadingBar.swift"
+  : [1680033451, 697008609]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Activity/ProgressBar.swift"
+  : [1680033451, 697162151]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Clear/Console+Clear.swift"
+  : [1680033451, 697371006]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Clear/Console+Ephemeral.swift"
+  : [1680033451, 697558879]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Clear/ConsoleClear.swift"
+  : [1680033451, 697698116]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Command/AnyCommand.swift"
+  : [1680033451, 697940349]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Command/Argument.swift": [1680033451, 698111534]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Command/Async/AnyAsyncCommand.swift"
+  : [1680033451, 698339223]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Command/Async/AsyncCommand.swift"
+  : [1680033451, 698501586]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Command/Async/AsyncCommandGroup.swift"
+  : [1680033451, 698665618]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Command/Async/AsyncCommands.swift"
+  : [1680033451, 698934793]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Command/Command.swift": [1680033451, 699256896]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Command/CommandContext.swift"
+  : [1680033451, 699457645]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Command/CommandError.swift"
+  : [1680033451, 699617385]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Command/CommandGroup.swift"
+  : [1680033451, 699821949]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Command/CommandInput.swift"
+  : [1680033451, 700002670]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Command/CommandSignature.swift"
+  : [1680033451, 700158596]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Command/Commands.swift": [1680033451, 700331687]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Command/Completion.swift"
+  : [1680033451, 700591564]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Command/Console+Run.swift"
+  : [1680033451, 700807094]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Command/Flag.swift": [1680033451, 700991392]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Command/Option.swift": [1680033451, 701139450]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Command/Utilities.swift"
+  : [1680033451, 701288700]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Console.swift": [1680033451, 701445579]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Input/Console+Ask.swift"
+  : [1680033451, 701670408]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Input/Console+Choose.swift"
+  : [1680033451, 701827049]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Input/Console+Confirm.swift"
+  : [1680033451, 701972961]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Input/Console+Input.swift"
+  : [1680033451, 702107906]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Output/Console+Center.swift"
+  : [1680033451, 702356338]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Output/Console+Output.swift"
+  : [1680033451, 702529430]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Output/Console+Wait.swift"
+  : [1680033451, 702668190]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Output/ConsoleColor.swift"
+  : [1680033451, 702827930]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Output/ConsoleStyle.swift"
+  : [1680033451, 702983856]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Output/ConsoleText.swift"
+  : [1680033451, 703184127]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Output/ConsoleTextFragment.swift"
+  : [1680033451, 703396081]
+  "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Terminal/ANSI.swift": [1680033451, 703700065]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Terminal/Terminal.swift"
+  : [1680033451, 704090833]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Terminal/readpassphrase_linux.swift"
+  : [1680033451, 704351425]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Utilities/ConsoleError.swift"
+  : [1680033451, 704610824]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Utilities/ConsoleLogger.swift"
+  : [1680033451, 704871892]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Utilities/GenerateAsyncAutocompleteCommand.swift"
+  : [1680033451, 705146789]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Utilities/GenerateAutocompleteCommand.swift"
+  : [1680033451, 705475330]
+  ? "/Users/jefflicona/Documents/mcon-materials/00-book-server/.build/checkouts/console-kit/Sources/ConsoleKit/Utilities/String+LevenshteinDistance.swift"
+  : [1680033451, 705817699]
